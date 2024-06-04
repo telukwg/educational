@@ -9,6 +9,10 @@ Types of games include:
   - Iso
 - 3D
 
+The information here has only been briefly checked - there may be errors or incorrect material here.
+
+Please be careful of Forum sites - you should have permission from your parents before joining/viewing a forum website.
+
 ## Learning
 Here are a bunch of websites offering information about learning Godot:
 
